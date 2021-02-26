@@ -30,6 +30,12 @@
     -webkit-box-shadow: none;
     box-shadow: none;
 }
+
+.nice-dark-mode .card, .nice-dark-mode .block {
+    background-color: var(--night-bg-secondary);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
 /*登录框宽度+外边距*/
 .txl-login-card {
     position: relative;
